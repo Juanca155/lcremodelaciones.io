@@ -58,7 +58,7 @@ body {
 .header {
     height: 60vh !important;
     width: 100%;
-    background: url(/foto4.jpg) no-repeat center;
+    background: url(foto4.jpg) no-repeat center;
     background-size: cover;
 }
 
