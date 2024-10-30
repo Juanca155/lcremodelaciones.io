@@ -58,7 +58,7 @@ body {
 .header {
     height: 60vh !important;
     width: 100%;
-    background: url(Asets/foto3.jpg) no-repeat center;
+    background: url(foto3.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -129,7 +129,7 @@ p {
     margin-block-start: 20px;
     height: 60vh !important;
     width: 100%;
-    background: url(Asets/Img/REMODELACION.jpg) no-repeat center;
+    background: url(REMODELACION.jpg) no-repeat center;
     background-size: cover;
 
 }
